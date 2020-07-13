@@ -1,0 +1,131 @@
+.heading {
+  color: #595959;
+  text-align: center;
+  padding: 30px 30px;
+  font-size: 20px;
+  text-shadow: 10px 0px 14px rgb(138, 43, 43);
+  margin: 80px;
+  border-radius: 18px;
+  background-image: linear-gradient(to bottom right, rgb(138, 43, 43), whitesmoke)
+}
+
+header h2, h3{
+  text-align: center;
+  font-size: 29px;
+  color: #595959;
+  text-shadow: 10px 0px 14px rgb(138, 43, 43)
+}
+
+body{
+ background-color: rgb(138, 43, 43);
+}
+
+.btn {
+  display: inline-block;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  text-align: center;
+  text-decoration: black;
+  margin: 8px;
+  padding: 4px 10px;
+  border-radius: 8px;
+  color: whitesmoke;
+  border: 1px solid black;
+  background-color: rgb(138, 43, 43);
+}
+main  p, ul, ol{
+  color: rgb(15, 15, 15);
+  font-size: 17px;
+  margin: 8px;
+  text-align: center;
+  list-style-position: inside;
+  position: relative;
+  }
+
+
+
+
+img{
+  margin: 3px;
+  padding: 1px 3px;
+  border-radius: 18px;
+}
+
+main section {
+  margin: 80px;
+  border-radius: 18px;
+  background-image: linear-gradient(to bottom right, rgb(138, 43, 43), rgb(216, 190, 190), rgb(216, 190, 190), rgb(138, 43, 43))
+}
+
+contact-btn{
+  display: inline-block;
+  font-family: ''Times New Roman'', Times, serif;
+  font-size: 18px;
+  text-align: center;
+  text-decoration: black;
+  margin: 8px;
+  padding: 4px 10px;
+  border-radius: 8px;
+  color: whitesmoke;
+  border: 1px solid black;
+  background-color: #595959;
+}
+main{
+  background-color: rgb(138,43,43);
+
+}
+footer p{
+  background-color: rgb(46, 15, 15);
+  font-size: 18px;
+  padding: 30px 20px;
+  color: whitesmoke;
+}
+a:link{color: antiquewhite;}
+a:visited{color: rgba(247, 242, 242, 0.048);}
+a:hover{color: #595959;
+font-size: 25px;}
+a:active{color:aqua;}
+
+.map{
+  display:block;
+  margin: 0 auto;
+  padding: 5px;
+}
+ul, ol{
+  width: 450px;
+  margin-left:450px;
+  margin-right:0 auto;
+  text-align: left;
+}
+
+ .top{
+  text-align: right;
+  
+}
+
+.btns{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+   
+  text-decoration: black;
+  margin: 8px;
+  padding: 4px 10px;
+  border-radius: 8px;
+  color: whitesmoke;
+  border: 1px solid black;
+  background-color: #595959;
+  
+}
+.btns:hover{
+  color: whitesmoke;
+}
+.interact:hover{
+  font-size: 25px;
+  color: rgb(138,43,43);
+  font-family: fantasy;
+}
+
+.about{
+  text-align= center;
+  margin: 0 150px;
+}
