@@ -129,3 +129,7 @@ ul, ol{
   text-align= center;
   margin: 0 150px;
 }
+hr{
+  width: 70%;
+  color: white;
+}
