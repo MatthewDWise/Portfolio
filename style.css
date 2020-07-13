@@ -51,7 +51,7 @@ img{
   border-radius: 18px;
 }
 
-main section {
+main .blocking {
   margin: 80px;
   border-radius: 18px;
   background-image: linear-gradient(to bottom right, rgb(138, 43, 43), rgb(216, 190, 190), rgb(216, 190, 190), rgb(138, 43, 43))
