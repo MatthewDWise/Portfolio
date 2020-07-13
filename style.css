@@ -93,7 +93,7 @@ a:active{color:aqua;}
 }
 ul, ol{
   width: 450px;
-  margin-left:450px;
+  margin-left:30%;
   margin-right:0 auto;
   text-align: left;
 }
