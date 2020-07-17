@@ -1,3 +1,4 @@
+/*style for heading including gradient background*/
 .heading {
   color: #595959;
   text-align: center;
@@ -5,6 +6,7 @@
   font-size: 20px;
   text-shadow: 10px 0px 14px rgb(138, 43, 43);
   margin: 80px;
+  height: auto;
   border-radius: 18px;
   background-image: linear-gradient(to bottom right, rgb(138, 43, 43), whitesmoke)
 }
@@ -19,7 +21,7 @@ header h2, h3{
 body{
  background-color: rgb(138, 43, 43);
 }
-
+/*style for buttons*/
 .btn {
   display: inline-block;
   font-family: 'Times New Roman', Times, serif;
@@ -33,6 +35,8 @@ body{
   border: 1px solid black;
   background-color: rgb(138, 43, 43);
 }
+
+/*Style for main sections, including "list-style-position" to center ul and ol*/
 main  p, ul, ol{
   color: rgb(15, 15, 15);
   font-size: 17px;
@@ -44,19 +48,20 @@ main  p, ul, ol{
 
 
 
-
+/*style for images, including rounded corners*/
 img{
   margin: 3px;
   padding: 1px 3px;
   border-radius: 18px;
 }
 
+/*styling including gradient background image*/
 main .blocking {
   margin: 80px;
   border-radius: 18px;
   background-image: linear-gradient(to bottom right, rgb(138, 43, 43), rgb(216, 190, 190), rgb(216, 190, 190), rgb(138, 43, 43))
 }
-
+/*style for contact buttons*/
 contact-btn{
   display: inline-block;
   font-family: ''Times New Roman'', Times, serif;
@@ -74,18 +79,21 @@ main{
   background-color: rgb(138,43,43);
 
 }
+/*style for footer*/
 footer p{
   background-color: rgb(46, 15, 15);
   font-size: 18px;
   padding: 30px 20px;
   color: whitesmoke;
 }
+/*styling for hyperlinks before, during and after usage*/
+
 a:link{color: antiquewhite;}
 a:visited{color: rgba(247, 242, 242, 0.048);}
 a:hover{color: #595959;
 font-size: 25px;}
 a:active{color:aqua;}
-
+/*styling for map*/
 .map{
   display:block;
   margin: 0 auto;
@@ -102,7 +110,7 @@ ul, ol{
   text-align: right;
   
 }
-
+/*style for buttons*/
 .btns{
   font-family: 'Times New Roman', Times, serif;
   font-size: 18px;
